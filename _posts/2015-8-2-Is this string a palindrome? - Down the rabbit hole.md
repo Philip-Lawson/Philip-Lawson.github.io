@@ -116,7 +116,7 @@ This way is one of the simplest possible. It's extremely readable, short, uses w
 
 K.I.S.S. Haskell
 
-Did I mention I like Haskell? I like Haskell. A lot. Excluding type declarations (which aren't necessarily needed) there are four lines of code and hardly any boilerplate. I could have written it in two lines if I was to sacrifice readability.
+Did I mention I like Haskell? I like Haskell. A lot. Excluding type declarations (which aren't necessarily needed) there are four lines of code and hardly any boilerplate. I could have written it in two lines if I didn't mind sacrificing readability.
 
 ```haskell
 -- longer readable way
