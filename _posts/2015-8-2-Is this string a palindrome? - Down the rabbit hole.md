@@ -139,4 +139,3 @@ isPalindrome string = preparedString == (reverse preparedString)
 
 Hopefully you stopped slowly dying inside as you got down the list. It still seems to me that anything like above is the bare minimum required to not be thrown out the door mid-interview, not an indication of an excellent candidate.
 
-Thoughts?
