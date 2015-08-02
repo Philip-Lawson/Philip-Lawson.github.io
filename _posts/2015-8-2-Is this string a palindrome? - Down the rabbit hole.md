@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Is this string a palindrome? - Down the rabbit hole.
+title: Is This String a Palindrome? - Down the Rabbit Hole.
 tags:
 - interview questions
 - the basics
